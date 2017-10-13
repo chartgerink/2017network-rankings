@@ -1,3 +1,10 @@
+---
+  output:
+    html_document: 
+      css: style.css
+---
+
+
 # Question based metrics
 
 ## Introduction
@@ -15,6 +22,10 @@ Scholarly research has been said to face a reproducibility crisis, but the under
     * use bad proxy because nothing else is available ("we have to do something")
 
 ## Granular communication
+
+```{r out.width="100%", out.height="100%"}
+knitr::include_app('test-figure.html')
+```
 
 ### Network structure
 
