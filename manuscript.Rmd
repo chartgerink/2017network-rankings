@@ -22,6 +22,8 @@ d
 
 ## Renewing metrics
 
+Different types of centrality.
+
 ## Use cases
 
 ### Funders
