@@ -1,8 +1,14 @@
-# Question based metrics
+# Towards a network of scholarly outputs
 
 ## Introduction
 
-1. Scholarly research has been said to face a reproducibility crisis, but the underlying cause of this is the incentive system that we have created for ourselves. 
+Scholarly thinking is facing many issues that simultaneously threaten its sustainability. 
+
+One of these issues pertains to access.
+
+Another of these issues pertains to reproducibility in various forms.
+
+Yet another of the issues pertains to 
 
 ### Current metrics
 
@@ -27,13 +33,20 @@
 
 ### Network structure
 
-
 <!-- Most important right now -->
 
 - [ ] Create illustrations for 2^(1:10) w topological sort
 - [ ] Explain network composition for a select few
 
 ## Renewing metrics
+
+1. connection strength
+2. density
+3. betweenness
+4. brokerage
+5. centrality
+6. dispersion
+
 
 ### Backward looking
 ### Forward looking
@@ -62,3 +75,6 @@ These popped-up during the project, but are out of scope and will be used for a 
 
 * Sparse matrices will be necessary to make the network adjacency matrix efficient
 * Can think about [incidence matrices](https://en.wikipedia.org/wiki/Incidence_matrix) as relational indicators
+* infrastructure levels:
+    * create network
+    * usage data (see [10.1145/1378889.1378928](http://public.lanl.gov/herbertv/papers/Papers/2008/JCDLbollen.pdf))
