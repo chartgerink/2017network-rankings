@@ -9,7 +9,28 @@
 
 ## Introduction
 
-Scholarly research has been said to face a reproducibility crisis, but the underlying cause of this is the incentive system. 
+Scholarly research faces severe threats to its sustainability has been said to face a reproducibility crisis [@Baker2016] (amongst other pernicious problems), but the underlying cause of this is the way we report and reward research . 
+The current scholarly communication system is organized around researchers who publish papers in journals published (mostly) by for-profit publishers. 
+Many of these journals have a page limit leading to artificial scarcity which subsequently increases the prestige of such a journal. 
+Furthermore, scientific communication is organized around a few publishers which increases the centralization of said communication tremendously [@Lariviere2015]. 
+This introduces knowledge discrimination, as publishers are able to influence who can access scientific knowledge, what gets published, and allows for other single points of failure to arise. 
+In order to have a sustainable scholarly communication- and a more effective research system, severe changes are necessary from our perspective.
+
+The way scholarly communication is designed has large effects on the behavior of individual researchers, universities, and funders. 
+Researchers and institutions are evaluated on where and how much they publish (as a form of prestige) instead of the quality of the work. 
+For example, an oft-used measure of quality is the Journal Impact Factor (JIF; average amount of citations per article in a journal). 
+The JIF is also used to evaluate the 'quality' of individual papers under the assumption that a high impact factor predicts the success of individual articles (this assumption has been debunked many times, see e.g. [@Prathap2016; @Seglen1992; @Seglen1994]). 
+Other performance metrics in the current system suffer from the same problem. 
+This also leaves universities and funders in the dark with respect to the underlying quality of scientific knowledge, as these metrics are unable to predict future success of researchers. 
+It is unlikely that the paper-based approach to scientific communication can escape the perverted consequences of this flawed design.	
+
+We propose an alternative design for scholarly communication based on smaller research outputs and direct links between these outputs, forming a network of research outputs. 
+Such a design respects the chronological nature of research cycles and proposes that we communicate as we do our research instead of in hindsight. 
+
+Such a network goes beyond citations and provides direct descendancy of findings, which provides room for different ways of evaluating research and researchers. 
+Currently, researchers, research groups, and universities are evaluated based on where researchers publish and to what extent their publications are cited by other researchers, and when the metric becomes the goal it will be gamed. 
+We propose to shift the focus towards question driven evaluation of researchers in a network of directly linked research outputs. 
+This would make evaluation of research its own research process with question formulation, operationalizations, and data collection, depending on the use case.
 
 ### Current metrics
 
@@ -45,5 +66,6 @@ d
 
 ## Discussion
 
+## References
 
 
