@@ -13,7 +13,10 @@
    version="1.1"
    id="svg4003"
    sodipodi:docname="Panel with DAGs.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="C:\Users\s379011\Dropbox\projects\2017network-rankings\docs\Panel with DAGs.svg.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <metadata
      id="metadata4009">
     <rdf:RDF>
@@ -22,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,14 +45,16 @@
      id="namedview4005"
      showgrid="false"
      inkscape:zoom="0.63286057"
-     inkscape:cx="28.24599"
+     inkscape:cx="43.089715"
      inkscape:cy="168.87942"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4003" />
   <g
-     id="surface14">
+     id="surface14"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
     <path
        style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(14.99939%,28.999329%,50%);stroke-opacity:0.7;stroke-miterlimit:3.25;"
        d="M 234.1875 195.78125 L 202.398438 215.160156 "
@@ -337,10 +342,14 @@
      style="fill:#ffffff;stroke-width:0.73812121"
      width="251.29567"
      height="227.59375"
-     id="rect4150" />
+     id="rect4150"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
   <g
      id="g4160"
-     transform="matrix(0.77560392,0,0,0.70244989,-327.70656,0.39671892)">
+     transform="matrix(0.77560392,0,0,0.70244989,-327.70656,0.39671892)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
     <g
        id="g4158">
       <path
@@ -361,7 +370,9 @@
   </g>
   <g
      id="g4170"
-     transform="matrix(0.77560392,0,0,0.70244989,-327.70656,0.39671892)">
+     transform="matrix(0.77560392,0,0,0.70244989,-327.70656,0.39671892)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
     <g
        id="g4168">
       <path
@@ -385,7 +396,9 @@
      style="fill:none;stroke:#ffffff;stroke-width:5.90496969;stroke-miterlimit:10"
      stroke-miterlimit="10"
      d="m -188.09786,114.1936 c 72.588,0 97.726095,47.11894 97.726095,88.50869"
-     id="path4172" />
+     id="path4172"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
   <ellipse
      style="fill:#abd5ee;stroke:#000000;stroke-width:0.73812121;stroke-miterlimit:10"
      stroke-miterlimit="10"
@@ -393,7 +406,9 @@
      cy="13.040821"
      id="circle4174"
      rx="6.9804354"
-     ry="6.3220491" />
+     ry="6.3220491"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
   <ellipse
      style="fill:#abd5ee;stroke:#000000;stroke-width:0.73812121;stroke-miterlimit:10"
      stroke-miterlimit="10"
@@ -401,7 +416,9 @@
      cy="38.329014"
      id="circle4176"
      rx="6.9804354"
-     ry="6.3220491" />
+     ry="6.3220491"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
   <ellipse
      style="fill:#abd5ee;stroke:#000000;stroke-width:0.73812121;stroke-miterlimit:10"
      stroke-miterlimit="10"
@@ -409,7 +426,9 @@
      cy="63.61721"
      id="circle4178"
      rx="6.9804354"
-     ry="6.3220491" />
+     ry="6.3220491"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
   <ellipse
      style="fill:#abd5ee;stroke:#000000;stroke-width:0.73812121;stroke-miterlimit:10"
      stroke-miterlimit="10"
@@ -417,7 +436,9 @@
      cy="88.905403"
      id="circle4180"
      rx="6.9804354"
-     ry="6.3220491" />
+     ry="6.3220491"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
   <ellipse
      style="fill:#abd5ee;stroke:#000000;stroke-width:0.73812121;stroke-miterlimit:10"
      stroke-miterlimit="10"
@@ -425,7 +446,9 @@
      cy="114.1936"
      id="circle4182"
      rx="6.9804354"
-     ry="6.3220491" />
+     ry="6.3220491"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
   <ellipse
      style="fill:#abd5ee;stroke:#000000;stroke-width:0.73812121;stroke-miterlimit:10"
      stroke-miterlimit="10"
@@ -433,7 +456,9 @@
      cy="139.4818"
      id="circle4184"
      rx="6.9804354"
-     ry="6.3220491" />
+     ry="6.3220491"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
   <ellipse
      style="fill:#abd5ee;stroke:#000000;stroke-width:0.73812121;stroke-miterlimit:10"
      stroke-miterlimit="10"
@@ -441,7 +466,9 @@
      cy="164.76999"
      id="circle4186"
      rx="6.9804354"
-     ry="6.3220491" />
+     ry="6.3220491"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
   <ellipse
      style="fill:#abd5ee;stroke:#000000;stroke-width:0.73812121;stroke-miterlimit:10"
      stroke-miterlimit="10"
@@ -449,7 +476,9 @@
      cy="190.05818"
      id="circle4188"
      rx="6.9804354"
-     ry="6.3220491" />
+     ry="6.3220491"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
   <ellipse
      style="fill:#abd5ee;stroke:#000000;stroke-width:0.73812121;stroke-miterlimit:10"
      stroke-miterlimit="10"
@@ -457,10 +486,14 @@
      cy="215.34637"
      id="circle4190"
      rx="6.9804354"
-     ry="6.3220491" />
+     ry="6.3220491"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
   <g
      id="g4200"
-     transform="matrix(0.77560392,0,0,0.70244989,-327.70656,0.39671892)">
+     transform="matrix(0.77560392,0,0,0.70244989,-327.70656,0.39671892)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
     <g
        id="g4198">
       <line
@@ -483,7 +516,9 @@
   </g>
   <g
      id="g4210"
-     transform="matrix(0.77560392,0,0,0.70244989,-327.70656,0.39671892)">
+     transform="matrix(0.77560392,0,0,0.70244989,-327.70656,0.39671892)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
     <g
        id="g4208">
       <line
@@ -506,7 +541,9 @@
   </g>
   <g
      id="g4220"
-     transform="matrix(0.77560392,0,0,0.70244989,-327.70656,0.39671892)">
+     transform="matrix(0.77560392,0,0,0.70244989,-327.70656,0.39671892)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
     <g
        id="g4218">
       <line
@@ -529,7 +566,9 @@
   </g>
   <g
      id="g4230"
-     transform="matrix(0.77560392,0,0,0.70244989,-327.70656,0.39671892)">
+     transform="matrix(0.77560392,0,0,0.70244989,-327.70656,0.39671892)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
     <g
        id="g4228">
       <line
@@ -552,7 +591,9 @@
   </g>
   <g
      id="g4240"
-     transform="matrix(0.77560392,0,0,0.70244989,-327.70656,0.39671892)">
+     transform="matrix(0.77560392,0,0,0.70244989,-327.70656,0.39671892)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
     <g
        id="g4238">
       <line
@@ -575,7 +616,9 @@
   </g>
   <g
      id="g4250"
-     transform="matrix(0.77560392,0,0,0.70244989,-327.70656,0.39671892)">
+     transform="matrix(0.77560392,0,0,0.70244989,-327.70656,0.39671892)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
     <g
        id="g4248">
       <path
@@ -596,7 +639,9 @@
   </g>
   <g
      id="g4260"
-     transform="matrix(0.77560392,0,0,0.70244989,-327.70656,0.39671892)">
+     transform="matrix(0.77560392,0,0,0.70244989,-327.70656,0.39671892)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
     <g
        id="g4258">
       <path
@@ -617,7 +662,9 @@
   </g>
   <g
      id="g4270"
-     transform="matrix(0.77560392,0,0,0.70244989,-327.70656,0.39671892)">
+     transform="matrix(0.77560392,0,0,0.70244989,-327.70656,0.39671892)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
     <g
        id="g4268">
       <path
@@ -638,7 +685,9 @@
   </g>
   <g
      id="g4280"
-     transform="matrix(0.77560392,0,0,0.70244989,-327.70656,0.39671892)">
+     transform="matrix(0.77560392,0,0,0.70244989,-327.70656,0.39671892)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
     <g
        id="g4278">
       <path
